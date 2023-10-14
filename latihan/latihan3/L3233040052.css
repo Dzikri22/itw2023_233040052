@@ -1,0 +1,18 @@
+div{}
+
+.body{
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.heading{
+    font-size: 60px;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    text-align: right;
+    font-style: italic;
+}
+.paragraf{
+    text-align: justify ;
+}
