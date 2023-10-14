@@ -4,12 +4,12 @@ div{}
     background-color: aqua;
     font-family: Georgia, 'Times New Roman', Times, serif ;
 }
-.heading{
+.heading1{
     font-size: 60px;
     color: darkblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.heading{
+.heading4{
     text-align: right;
     font-style: italic;
 }
