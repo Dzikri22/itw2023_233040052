@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: darkblue;
+    font-size: 60px;
+    text-align: center;
+    font-family: comic sans ms;
+
+}
+h4{
+    text-align: right;
+    font-style: italic;
+}
+.a{
+    color: antiquewhite;
+}
+.paragraf1{
+    color: coral;
+    text-align: center;
+        
+}
+.paragraf2{
+    text-align: center;
+    line-height: 2;
+}
